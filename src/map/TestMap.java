@@ -11,6 +11,7 @@ public class TestMap {
 	
 	System.out.println(mp.containsKey(1));
 	System.out.println(mp.containsValue("java"));
+	System.out.println(mp.containsValue("java .net"));
 	System.out.println(mp.get(1));
 }
 }
